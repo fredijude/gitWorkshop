@@ -2,10 +2,6 @@
 
 # Intro to Git Workshop
 
-### Course Created by:  [Reshama Shaikh](https://reshamas.github.io) | [@reshamas](https://twitter.com/reshamas)
-
----
-
 ### Installation
 This workshop covers Git CLI (command line interface, *not Git GUI*).  
 
